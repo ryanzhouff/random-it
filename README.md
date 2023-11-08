@@ -1,27 +1,29 @@
 # random-it
 
-用于生成随机整数和随机布尔值
+:warning: **It's just a demo for learning how to publish npm package**: DO NOT use in production!
 
-## 功能介绍
+A library for generating random number
 
-1. randomInt() - 生成随机整数
-2. randomBoolean() - 生成随机布尔值
+## Introduction
 
-## 在线演示
+1. randomInt() - generate a random number
+2. randomBoolean() - generate a random boolean
 
-[演示地址](https://example.com/random-it)
+## Online demo
 
-## 安装方法
+[Online Demo](https://example.com/random-it)
 
-使用 npm:
+## Installation
+
+with npm:
 
 ```bash
 npm install -S @ryanzhouff/random-it
 ```
 
-使用 CDN: https://cdn.example.com/random-it
+with CDN: https://cdn.example.com/random-it
 
-## 使用
+## Usage
 
 ESM:
 
